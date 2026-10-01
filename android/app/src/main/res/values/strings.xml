@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">N5Flashcard</string>
+    <string name="title_activity_main">N5Flashcard</string>
+    <string name="package_name">com.n5flashcard.app</string>
+    <string name="custom_url_scheme">com.n5flashcard.app</string>
+</resources>
